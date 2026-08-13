@@ -1,199 +1,24 @@
-# Hi, I'm Nay 👋
+# 💫 About Me:
+# Hi, I'm Nay 👋<br><br>### Software Engineer · Full-Stack Developer · Thailand 🇹🇭<br><br>I'm a Software Engineering graduate focused on building **scalable web applications, backend services, and distributed systems**.<br><br>I enjoy turning ideas into reliable products — from responsive frontend interfaces to REST APIs, databases, authentication systems, microservices, and cloud-based infrastructure.<br><br>based in Thailand.<br><br>---<br><br>## 👨‍💻 About Me<br><br>* 🎓 Software Engineering graduate<br>* 💼 Internship experience working on production software systems<br>* 🌏 Based in Thailand and open to opportunities across Thailand<br>* 🔭 Interested in **Full-Stack Development, Backend Engineering & Distributed Systems**<br>* 🧩 Experienced with **monolithic and microservice architectures**<br>* ☁️ Interested in **Cloud, DevOps, CI/CD & scalable systems**<br>* 📚 Currently deepening my knowledge of **Java, Spring Boot, Kafka, AWS and system design**<br>* 🚀 Always building and experimenting with new technologies<br><br>---<br><br>## 🛠️ Tech Stack<br><br>### Frontend<br><br><p><br>  <img src="https://skillicons.dev/icons?i=react,nextjs,typescript,javascript,tailwind,html,css" /><br></p><br><br>### Backend<br><br><p><br>  <img src="https://skillicons.dev/icons?i=nodejs,express,java,spring,python" /><br></p><br><br>### Databases & Messaging<br><br><p><br>  <img src="https://skillicons.dev/icons?i=mongodb,postgresql,mysql,redis,kafka" /><br></p><br><br>### DevOps & Cloud<br><br><p><br>  <img src="https://skillicons.dev/icons?i=docker,aws,azure,githubactions,git,linux" /><br></p><br><br>### Tools<br><br><p><br>  <img src="https://skillicons.dev/icons?i=git,github,vscode,postman,prisma" /><br></p><br><br>---<br><br>## 🚀 Featured Projects<br><br>### 🎓 Doi Tung E-Learning Platform<br><br>A full-stack e-learning platform designed to provide an online learning experience with course management, authentication, video content, and user progress tracking.<br><br>**Tech:** `React` · `Next.js` · `TypeScript` · `Node.js` · `Prisma` · `PostgreSQL`<br><br>---<br><br>### 💼 J-Track — Microservices Job Platform<br><br>A microservices-based job platform designed with separate services for authentication, users, jobs, and utilities.<br><br>Implemented event-driven communication using **Apache Kafka**, JWT/cookie-based authentication, shared Prisma infrastructure, and service-to-service communication.<br><br>**Tech:** `Node.js` · `Express` · `TypeScript` · `PostgreSQL` · `Prisma` · `Kafka` · `Docker`<br><br>---<br><br>### 🤖 AI Interview Preparation Platform<br><br>An AI-powered application designed to help developers practice technical interviews and receive AI-generated interview questions and feedback.<br><br>**Tech:** `React` · `Node.js` · `Express` · `MongoDB` · `Gemini API`<br><br>and there are more porjects<br><br>---<br><br>### 🌐 Developer Portfolio<br><br>A modern developer portfolio showcasing my projects, technical skills, and experience.<br><br>**Tech:** `React` · `Vite` · `TypeScript` · `Tailwind CSS` · `shadcn/ui`<br><br>---<br><br>## 🏗️ What I Like Building<br><br>```text<br>Frontend Applications<br>        ↓<br>REST APIs / Backend Services<br>        ↓<br>Authentication & Authorization<br>        ↓<br>Databases & Caching<br>        ↓<br>Message Queues / Kafka<br>        ↓<br>Microservices<br>        ↓<br>Docker / CI/CD<br>        ↓<br>Cloud Infrastructure<br>```<br><br>I'm particularly interested in understanding **how systems work beyond the UI** — including API design, database architecture, distributed systems, event-driven architecture, reliability, and deployment.<br><br>---<br><br>## 📈 Currently Learning<br><br>* ☕ Java & Spring Boot<br>* 📨 Apache Kafka & Event-Driven Architecture<br>* ☁️ AWS & Cloud Architecture<br>* 🐳 Docker & Kubernetes<br>* 🔄 CI/CD & DevOps<br>* 🏗️ System Design<br>* ⚡ Distributed Systems<br>* 🔐 Scalable Authentication & Authorization<br><br>---<br><br>## 💼 Open to Opportunities<br><br>I'm currently looking for opportunities in Thailand as a:<br><br>* **Software Engineer**<br>* **Full-Stack Developer**<br>* **Backend Developer**<br>* **Frontend Developer**<br>* **Node.js Developer**<br>* **Java / Spring Boot Developer**<br><br>I'm especially interested in teams working on **real-world products, scalable systems, cloud infrastructure, and modern web technologies**.<br><br>> 🇹🇭 Open to opportunities in Bangkok and other locations in Thailand.<br><br>---<br><br>## 📫 Let's Connect<br><br><p align="left"><br>  <a href="https://www.linkedin.com/" target="_blank"><br>    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /><br>  </a><br>  <a href="https://github.com/Nayyelin-14" target="_blank"><br>    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" /><br>  </a><br></p><br><br>📧 **Email:** [your-email@example.com](mailto:your-email@example.com)<br><br>🌐 **Portfolio:** https://your-portfolio.com<br><br>---<br><br>## ⚡ A Little More About Me<br><br>```typescript<br>const nay = {<br>  role: "Software Engineer",<br>  location: "Thailand 🇹🇭",<br>  focus: [<br>    "Full-Stack Development",<br>    "Backend Engineering",<br>    "Microservices",<br>    "Distributed Systems"<br>  ],<br>  frontend: ["React", "Next.js", "TypeScript"],<br>  backend: ["Node.js", "Express", "Java", "Spring Boot"],<br>  databases: ["PostgreSQL", "MongoDB", "MySQL", "Redis"],<br>  messaging: ["Apache Kafka"],<br>  cloud: ["AWS", "Azure"],<br>  tools: ["Docker", "Git", "CI/CD"],<br>  currentlyLearning: [<br>    "System Design",<br>    "Kafka",<br>    "AWS",<br>    "Spring Boot"<br>  ],<br>  openToWork: true<br>};<br>```<br><br>---<br><br>⭐ **Thanks for visiting my profile!**<br><br>If you're interested in working together, feel free to connect with me.<br>
 
-### Software Engineer · Full-Stack Developer · Thailand 🇹🇭
 
-I'm a Software Engineering graduate focused on building **scalable web applications, backend services, and distributed systems**.
+## 🌐 Socials:
+[![Bluesky](https://img.shields.io/badge/bluesky-0285FF?style=for-the-badge&logo=bluesky&logoColor=%23FFFFFF)](https://bsky.app/profile/Nay) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/Nay Ye Lin) 
 
-I enjoy turning ideas into reliable products — from responsive frontend interfaces to REST APIs, databases, authentication systems, microservices, and cloud-based infrastructure.
+# 💻 Tech Stack:
+![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![GraphQL](https://img.shields.io/badge/-GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![Windows Terminal](https://img.shields.io/badge/Windows%20Terminal-%234D4D4D.svg?style=for-the-badge&logo=windows-terminal&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=for-the-badge&logo=microsoftazure&logoColor=white) ![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&logo=Cloudflare&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase) ![Render](https://img.shields.io/badge/Render-%46E3B7.svg?style=for-the-badge&logo=render&logoColor=white) ![Oracle](https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7) ![Ant-Design](https://img.shields.io/badge/-AntDesign-%230170FE?style=for-the-badge&logo=ant-design&logoColor=white) ![Apache Kafka](https://img.shields.io/badge/Apache%20Kafka-000?style=for-the-badge&logo=apachekafka) ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white) ![Chart.js](https://img.shields.io/badge/chart.js-F5788D.svg?style=for-the-badge&logo=chart.js&logoColor=white) ![Context-API](https://img.shields.io/badge/Context--Api-000000?style=for-the-badge&logo=react) ![EJS](https://img.shields.io/badge/ejs-%23B4CA65.svg?style=for-the-badge&logo=ejs&logoColor=black) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB) ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi) ![JWT](https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens) ![MUI](https://img.shields.io/badge/MUI-%230081CB.svg?style=for-the-badge&logo=mui&logoColor=white) ![NPM](https://img.shields.io/badge/NPM-%23CB3837.svg?style=for-the-badge&logo=npm&logoColor=white) ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![Nodemon](https://img.shields.io/badge/NODEMON-%23323330.svg?style=for-the-badge&logo=nodemon&logoColor=%BBDEAD) ![PNPM](https://img.shields.io/badge/pnpm-%234a4a4a.svg?style=for-the-badge&logo=pnpm&logoColor=f69220) ![Quarkus](https://img.shields.io/badge/quarkus-%234794EB.svg?style=for-the-badge&logo=quarkus&logoColor=white) ![RabbitMQ](https://img.shields.io/badge/rabbitmq-FF6600?style=for-the-badge&logo=rabbitmq&logoColor=white) ![Radix UI](https://img.shields.io/badge/radix%20ui-161618.svg?style=for-the-badge&logo=radix-ui&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![React Native](https://img.shields.io/badge/react_native-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![React Router](https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white) ![React Hook Form](https://img.shields.io/badge/React%20Hook%20Form-%23EC5990.svg?style=for-the-badge&logo=reacthookform&logoColor=white) ![Redux](https://img.shields.io/badge/redux-%23593d88.svg?style=for-the-badge&logo=redux&logoColor=white) ![Socket.io](https://img.shields.io/badge/Socket.io-black?style=for-the-badge&logo=socket.io&badgeColor=010101) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) ![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white) ![Nginx](https://img.shields.io/badge/nginx-%23009639.svg?style=for-the-badge&logo=nginx&logoColor=white) ![Jenkins](https://img.shields.io/badge/jenkins-%232C5263.svg?style=for-the-badge&logo=jenkins&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-a08021?style=for-the-badge&logo=firebase&logoColor=ffcd34) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![Redis](https://img.shields.io/badge/redis-%23DD0031.svg?style=for-the-badge&logo=redis&logoColor=white) ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white) ![Prisma](https://img.shields.io/badge/Prisma-3982CE?style=for-the-badge&logo=Prisma&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![Framer](https://img.shields.io/badge/Framer-black?style=for-the-badge&logo=framer&logoColor=blue) ![GitHub Actions](https://img.shields.io/badge/github%20actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Jest](https://img.shields.io/badge/-jest-%23C21325?style=for-the-badge&logo=jest&logoColor=white) ![Vitest](https://img.shields.io/badge/-Vitest-252529?style=for-the-badge&logo=vitest&logoColor=FCC72B) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) ![ESLint](https://img.shields.io/badge/ESLint-4B3263?style=for-the-badge&logo=eslint&logoColor=white) ![FFmpeg](https://shields.io/badge/FFmpeg-%23171717.svg?logo=ffmpeg&style=for-the-badge&labelColor=171717&logoColor=5cb85c) ![Kubernetes](https://img.shields.io/badge/kubernetes-%23326ce5.svg?style=for-the-badge&logo=kubernetes&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white) ![Prettier](https://img.shields.io/badge/prettier-%23F7B93E.svg?style=for-the-badge&logo=prettier&logoColor=black) ![Prometheus](https://img.shields.io/badge/Prometheus-E6522C?style=for-the-badge&logo=Prometheus&logoColor=white) ![Terraform](https://img.shields.io/badge/terraform-%235835CC.svg?style=for-the-badge&logo=terraform&logoColor=white) ![nVIDIA](https://img.shields.io/badge/nVIDIA-%2376B900.svg?style=for-the-badge&logo=nVIDIA&logoColor=white)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.shion.dev/api?username=Nayyelin-14&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://streak-stats.demolab.com/?user=Nayyelin-14&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.shion.dev/api/top-langs/?username=Nayyelin-14&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
-I'm currently **open to Software Engineer / Full-Stack Developer opportunities in Thailand**.
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=Nayyelin-14&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
----
-
-## 👨‍💻 About Me
-
-* 🎓 Software Engineering graduate
-* 💼 Internship experience working on production software systems
-* 🌏 Based in Thailand and open to opportunities across Thailand
-* 🔭 Interested in **Full-Stack Development, Backend Engineering & Distributed Systems**
-* 🧩 Experienced with **monolithic and microservice architectures**
-* ☁️ Interested in **Cloud, DevOps, CI/CD & scalable systems**
-* 📚 Currently deepening my knowledge of **Java, Spring Boot, Kafka, AWS and system design**
-* 🚀 Always building and experimenting with new technologies
+### 🔝 Top Contributed Repo
+![](https://github-contributor-stats.vercel.app/api?username=Nayyelin-14&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
 ---
+[![](https://komarev.com/ghpvc/?username=Nayyelin-14&icon=6&color=1)](https://visitcount.itsvg.in)
 
-## 🛠️ Tech Stack
-
-### Frontend
-
-<p>
-  <img src="https://skillicons.dev/icons?i=react,nextjs,typescript,javascript,tailwind,html,css" />
-</p>
-
-### Backend
-
-<p>
-  <img src="https://skillicons.dev/icons?i=nodejs,express,java,spring,python" />
-</p>
-
-### Databases & Messaging
-
-<p>
-  <img src="https://skillicons.dev/icons?i=mongodb,postgresql,mysql,redis,kafka" />
-</p>
-
-### DevOps & Cloud
-
-<p>
-  <img src="https://skillicons.dev/icons?i=docker,aws,azure,githubactions,git,linux" />
-</p>
-
-### Tools
-
-<p>
-  <img src="https://skillicons.dev/icons?i=git,github,vscode,postman,prisma" />
-</p>
-
----
-
-## 🚀 Featured Projects
-
-### 🎓 Doi Tung E-Learning Platform
-
-A full-stack e-learning platform designed to provide an online learning experience with course management, authentication, video content, and user progress tracking.
-
-**Tech:** `React` · `Next.js` · `TypeScript` · `Node.js` · `Prisma` · `PostgreSQL`
-
----
-
-### 💼 J-Track — Microservices Job Platform
-
-A microservices-based job platform designed with separate services for authentication, users, jobs, and utilities.
-
-Implemented event-driven communication using **Apache Kafka**, JWT/cookie-based authentication, shared Prisma infrastructure, and service-to-service communication.
-
-**Tech:** `Node.js` · `Express` · `TypeScript` · `PostgreSQL` · `Prisma` · `Kafka` · `Docker`
-
----
-
-### 🤖 AI Interview Preparation Platform
-
-An AI-powered application designed to help developers practice technical interviews and receive AI-generated interview questions and feedback.
-
-**Tech:** `React` · `Node.js` · `Express` · `MongoDB` · `Gemini API`
-
----
-
-### 🌐 Developer Portfolio
-
-A modern developer portfolio showcasing my projects, technical skills, and experience.
-
-**Tech:** `React` · `Vite` · `TypeScript` · `Tailwind CSS` · `shadcn/ui`
-
----
-
-## 🏗️ What I Like Building
-
-```text
-Frontend Applications
-        ↓
-REST APIs / Backend Services
-        ↓
-Authentication & Authorization
-        ↓
-Databases & Caching
-        ↓
-Message Queues / Kafka
-        ↓
-Microservices
-        ↓
-Docker / CI/CD
-        ↓
-Cloud Infrastructure
-```
-
-I'm particularly interested in understanding **how systems work beyond the UI** — including API design, database architecture, distributed systems, event-driven architecture, reliability, and deployment.
-
----
-
-## 📈 Currently Learning
-
-* ☕ Java & Spring Boot
-* 📨 Apache Kafka & Event-Driven Architecture
-* ☁️ AWS & Cloud Architecture
-* 🐳 Docker & Kubernetes
-* 🔄 CI/CD & DevOps
-* 🏗️ System Design
-* ⚡ Distributed Systems
-* 🔐 Scalable Authentication & Authorization
-
----
-
-## 💼 Open to Opportunities
-
-I'm currently looking for opportunities in Thailand as a:
-
-* **Software Engineer**
-* **Full-Stack Developer**
-* **Backend Developer**
-* **Frontend Developer**
-* **Node.js Developer**
-* **Java / Spring Boot Developer**
-
-I'm especially interested in teams working on **real-world products, scalable systems, cloud infrastructure, and modern web technologies**.
-
-> 🇹🇭 Open to opportunities in Bangkok and other locations in Thailand.
-
----
-
-## 📫 Let's Connect
-
-<p align="left">
-  <a href="https://www.linkedin.com/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-  <a href="https://github.com/Nayyelin-14" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
-  </a>
-</p>
-
-📧 **Email:** [your-email@example.com](mailto:your-email@example.com)
-
-🌐 **Portfolio:** https://your-portfolio.com
-
----
-
-## ⚡ A Little More About Me
-
-```typescript
-const nay = {
-  role: "Software Engineer",
-  location: "Thailand 🇹🇭",
-  focus: [
-    "Full-Stack Development",
-    "Backend Engineering",
-    "Microservices",
-    "Distributed Systems"
-  ],
-  frontend: ["React", "Next.js", "TypeScript"],
-  backend: ["Node.js", "Express", "Java", "Spring Boot"],
-  databases: ["PostgreSQL", "MongoDB", "MySQL", "Redis"],
-  messaging: ["Apache Kafka"],
-  cloud: ["AWS", "Azure"],
-  tools: ["Docker", "Git", "CI/CD"],
-  currentlyLearning: [
-    "System Design",
-    "Kafka",
-    "AWS",
-    "Spring Boot"
-  ],
-  openToWork: true
-};
-```
-
----
-
-⭐ **Thanks for visiting my profile!**
-
-If you're interested in working together, feel free to connect with me.
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
