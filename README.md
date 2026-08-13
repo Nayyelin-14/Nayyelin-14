@@ -1,16 +1,4 @@
-<div align="center">
-  <img
-    src="./assets/angry-typing.gif"
-    alt="Bruce Almighty Angry Typing"
-    width="100%"
-  />
-</div>
 
-<div align="center">
-
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=3986FA&width=650&lines=Hi%2C+I'm+Nay+Ye+Lin+%F0%9F%91%8B;Software+Engineer+%7C+Full-Stack+Developer;Building+scalable+web+applications;React+%7C+Next.js+%7C+Node.js+%7C+Java;Welcome+to+my+GitHub+profile!" />
-
-</div>
 # Hi, I'm Nay 👋
 
 I'm a **Software Engineer and Full-Stack Developer** based in Thailand 🇹🇭, passionate about building modern, scalable, and user-focused applications.
