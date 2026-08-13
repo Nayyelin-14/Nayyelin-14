@@ -1,4 +1,10 @@
-
+<div align="center">
+  <img
+    src="./angry-typing.gif"
+    alt="Bruce Almighty Angry Typing"
+    width="100%"
+  />
+</div>
 # Hi, I'm Nay 👋
 
 I'm a **Software Engineer and Full-Stack Developer** based in Thailand 🇹🇭, passionate about building modern, scalable, and user-focused applications.
