@@ -1,6 +1,6 @@
 <div align="center">
   <img
-    src="./angry-typing.gif"
+   src="./bruce-almighty-comedy-jim-carrey-angry-typing.gif"
     alt="Bruce Almighty Angry Typing"
     width="100%"
   />
