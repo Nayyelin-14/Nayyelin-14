@@ -1,4 +1,10 @@
-<div align="center"> <img src="./assets/angry-typing.gif" alt="Angry Typing" width="100%" /> </div>
+<div align="center">
+  <img
+    src="./assets/angry-typing.gif"
+    alt="Bruce Almighty Angry Typing"
+    width="100%"
+  />
+</div>
 
 <div align="center">
 
