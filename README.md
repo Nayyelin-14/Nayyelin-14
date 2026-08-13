@@ -1,8 +1,4 @@
-<img alt="Coding" width="100%" height="300" src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif">
-
-<div align="center">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=3986FA&width=600&lines=Hi%2C+I'm+Nay+Ye+Lin+%F0%9F%91%8B;Software+Engineer+%7C+Full-Stack+Developer;Building+scalable+web+applications;React+%7C+Next.js+%7C+Node.js+%7C+Java;Welcome+to+my+GitHub+profile!" />
-</div>
+<div class="tenor-gif-embed" data-postid="3465977" data-share-method="host" data-aspect-ratio="1.66667" data-width="100%"><a href="https://tenor.com/view/bruce-almighty-comedy-jim-carrey-angry-typing-gif-3465977">Angry Typing GIF</a>from <a href="https://tenor.com/search/bruce+almighty-gifs">Bruce Almighty GIFs</a></div> <script type="text/javascript" async src="https://tenor.com/embed.js"></script>
 
 # Hi, I'm Nay 👋
 
