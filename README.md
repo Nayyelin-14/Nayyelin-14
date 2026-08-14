@@ -6,6 +6,7 @@
        height="220"
   />
 </div>
+
 # Hi, I'm Nay 👋
 
 I'm a **Software Engineer and Full-Stack Developer** based in Thailand 🇹🇭, passionate about building modern, scalable, and user-focused applications.
@@ -21,7 +22,6 @@ I'm currently looking for **Software Engineer / Full-Stack Developer opportuniti
 - 🌱 Currently deepening my knowledge of Java, Spring Boot, Kafka, AWS, and cloud architecture.
 - 🏗️ Enjoy designing APIs, database architectures, authentication systems, and event-driven services.
 - 🚀 Always learning, building, and improving.
-- 🇹🇭 Open to Software Engineering opportunities in Thailand.
 
 # 💻 Tech Stack
 
@@ -76,53 +76,7 @@ I'm currently looking for **Software Engineer / Full-Stack Developer opportuniti
 
 </div>
 
-# 🚀 Featured Projects
 
-### 🎓 Doi Tung E-Learning Platform
-
-A full-stack e-learning platform built as a senior project, designed to provide course management, video learning, authentication, user progress tracking, and an interactive learning experience.
-
-**Tech:** `Next.js` · `React` · `TypeScript` · `Node.js` · `Prisma` · `PostgreSQL`
-
----
-
-### 💼 J-Track — Microservices Job Platform
-
-A job platform designed using a **microservice architecture** with independent services for authentication, users, jobs, and utilities.
-
-Implemented event-driven communication using **Apache Kafka**, JWT/cookie-based authentication, shared Prisma infrastructure, and service-to-service communication.
-
-**Tech:** `Node.js` · `Express` · `TypeScript` · `PostgreSQL` · `Prisma` · `Kafka` · `Docker`
-
----
-
-### 🤖 AI Interview Preparation Platform
-
-An AI-powered interview preparation application that generates technical interview questions and helps developers practice through AI-assisted interactions.
-
-**Tech:** `React` · `Node.js` · `Express` · `MongoDB` · `Gemini API`
-
----
-
-# 🏗️ What I'm Interested In
-
-```text
-Full-Stack Development
-        │
-        ├── React / Next.js
-        │
-        ├── Node.js / TypeScript
-        │
-        ├── Java / Quarkus / Spring Boot
-        │
-        ├── REST APIs
-        │
-        ├── PostgreSQL / MongoDB / Redis
-        │
-        ├── Kafka / Event-Driven Architecture
-        │
-        ├── Microservices
-        │
         ├── Docker / CI/CD
         │
         └── Cloud & System Design
