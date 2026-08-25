@@ -75,8 +75,3 @@ I'm currently looking for **Software Engineer / Full-Stack Developer opportuniti
 <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" />
 
 </div>
-
-
-        ├── Docker / CI/CD
-        │
-        └── Cloud & System Design
