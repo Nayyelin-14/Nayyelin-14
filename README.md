@@ -3,7 +3,7 @@
    src="./bruce-almighty-comedy.gif"
     alt="Bruce Almighty Angry Typing"
     width="100%"
-    height="250"
+    height="300"
   />
 </div>
 
